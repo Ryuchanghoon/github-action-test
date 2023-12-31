@@ -20,4 +20,4 @@ jobs:
         fi
     - name: Test with pytest
       run: |
-        python your_script.py
+        python test.py
